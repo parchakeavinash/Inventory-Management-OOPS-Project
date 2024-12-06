@@ -1,2 +1,5 @@
 itemsID,Name,Quantity,Price,sku
-0,One plus c4 mobile,1,25000.0,469af0f7-ccac-41d6-b310-248d6842d583
+0,One plus c4 mobile,1,25000.0,361c62b1-07f7-4362-b711-5bc023d6280a
+2,laptop,2,50000.0,1266138f-1a9a-441f-8ceb-a31495b1d7c7
+3,watch,5,1000.0,e1072933-481b-4681-9860-6e1f73f3cd4b
+4,plate,50,50.0,0ccc2633-dd84-4307-b467-f80d9b9a97a1
