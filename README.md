@@ -28,8 +28,9 @@ This project is an object-oriented Python application for managing an inventory 
 ### **1. Application Interface for Adding and Displaying Items**
 Below is a screenshot of the application in action:
 
-![Application Interface](![image](https://github.com/user-attachments/assets/a5054fe0-2d27-49b1-9c1f-e651c8b0440d)
-)
+![image](https://github.com/user-attachments/assets/4f56b069-7179-4240-8a6e-7d693124ca23)
+
+
 
 ---
 
