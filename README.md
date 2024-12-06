@@ -37,8 +37,8 @@ Below is a screenshot of the application in action:
 ### **2. Inventory Stored in CSV File**
 The inventory data is stored in a CSV file as shown below:
 
-![Inventory CSV](![image](https://github.com/user-attachments/assets/88083426-b730-4373-9d0c-c6f637afd205)
-)
+![image](https://github.com/user-attachments/assets/88083426-b730-4373-9d0c-c6f637afd205)
+
 
 ---
 
