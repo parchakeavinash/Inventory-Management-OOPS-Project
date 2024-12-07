@@ -3,6 +3,7 @@
 ## **Description**
 This project is an object-oriented Python application for managing an inventory system. It offers a simple command-line interface to handle inventory operations efficiently.
 
+## Live Project : https://inventory-sales-analysis-dashboard-h2kl7labxylmi343id4gru.streamlit.app/
 ---
 
 ## **Features**
