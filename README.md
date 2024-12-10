@@ -5,6 +5,7 @@ This project is an object-oriented Python application for managing an inventory 
 
 ## Live Project : https://inventory-sales-analysis-dashboard-h2kl7labxylmi343id4gru.streamlit.app/
 ---
+![image](https://github.com/user-attachments/assets/ea00c1e5-65c8-4cf9-86d7-1055b4e0d517)
 
 ## **Features**
 - **Add New Items to the Inventory:**  
